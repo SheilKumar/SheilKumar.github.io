@@ -4,7 +4,7 @@
 
 <!--more-->
 
-Please follow me on twitter [@kumar_sheil](https://twitter.com/kumar_sheil) if you want to see tips on options trading calls and puts. I post almost weekly depending on how confident I am in the state of the market and if I have had time to investigate the stock I think are profitable. 
+Please follow me on twitter [@kumar_sheil](https://twitter.com/kumar_sheil) if you want to see tips on options trading calls and puts. I post almost weekly depending on how confident I am in the state of the market and if I have had time to investigate the stocks I think are profitable. 
 
   
 In the future I also plan on tweeting strategies I believe may be effecitve. For example, if I am expecting a stock to have a big fluctuation in price but I am not sure which way it will fluctuate, I will suggest a strategy such as the long straddle by which you can make significant gains as long as the underlying security fluctuates either way as can be seen underneath[^1].
