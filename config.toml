@@ -263,19 +263,19 @@ dateFormatToUse = "2006-01-02"
   [params.publisher]
     name = "xxxx"
     [params.publisher.logo]
-      url = "logo.png"
+      url = "/images/MainPhoto.jpg"
       width = 127
       height = 40
 
   # Website Log Info just for SEO
   [params.logo]
-    url = "logo.png"
+    url = "/images/MainPhoto.jpg"
     width = 300 
     height = 50
 
   # Website Image Info just for SEO
   [params.image]
-    url = "cover.png"
+    url = "/images/MainPhoto.jpg"
     width = 800
     height = 600
 
