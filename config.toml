@@ -56,7 +56,7 @@ dateFormatToUse = "2006-01-02"
 
 # Author Info
 [author]
-  name = "Shei Kumar"
+  name = "Sheil Kumar"
   link = ""
 
 # Sitemap Info
@@ -76,13 +76,25 @@ dateFormatToUse = "2006-01-02"
     name = "Posts"
     url = "posts"
     weight = 1
+    
+  [[menu.main]]
+    identifier = "tags"
+    name = "Tags"
+    url = "tags"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "categories"
+    name = "Categories"
+    url = "categories"
+    weight = 3
 
 
   [[menu.main]]
     identifier = "about"
     name = "About"
     url = "about"
-    weight = 2
+    weight = 4
 
 
 [params]
