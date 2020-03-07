@@ -1,0 +1,28 @@
+---
+title: Test
+author: Sheil Kumar
+date: '2020-03-07'
+slug: test
+categories:
+  - Test
+tags: []
+author_link: ''
+lastmod: '2020-03-07T12:31:31-06:00'
+description: ''
+show_in_homepage: yes
+description_as_summary: no
+license: ''
+featured_image: ''
+featured_image_preview: ''
+comment: yes
+toc: no
+auto_collapse_toc: yes
+math: no
+---
+
+<!--more-->
+
+```{r}
+summary(cars)
+```
+

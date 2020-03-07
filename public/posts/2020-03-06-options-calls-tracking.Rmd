@@ -1,0 +1,26 @@
+---
+title: Options Calls Tracking
+author: Sheil Kumar
+date: '2020-03-06'
+slug: options-calls-tracking
+categories:
+  - Options Trading
+tags: []
+author_link: ''
+lastmod: '2020-03-06T16:48:08-06:00'
+description: ''
+show_in_homepage: yes
+description_as_summary: no
+license: ''
+featured_image: 
+featured_image_preview: 
+comment: yes
+toc: no
+auto_collapse_toc: yes
+math: no
+---
+
+<!--more-->
+```{r echo=FALSE}
+blogdown::shortcode('tweet', '852205086956818432')
+```
