@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Data Visualization on Sheil Kumar | Blog</title>
-    <link>/%20/categories/data-visualization/</link>
+    <link>/categories/data-visualization/</link>
     <description>Recent content in Data Visualization on Sheil Kumar | Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     <lastBuildDate>Fri, 06 Mar 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/%20/categories/data-visualization/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/data-visualization/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>R, R Studio, and Data Visualization</title>
-      <link>/%20/2020/03/2020-03-07-r-r-studio-and-data-visualization/</link>
+      <link>/2020/03/2020-03-07-r-r-studio-and-data-visualization/</link>
       <pubDate>Fri, 06 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>/%20/2020/03/2020-03-07-r-r-studio-and-data-visualization/</guid>
+      <guid>/2020/03/2020-03-07-r-r-studio-and-data-visualization/</guid>
       <description>
 
 

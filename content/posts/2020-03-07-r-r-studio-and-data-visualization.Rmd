@@ -28,7 +28,7 @@ In this article I discuss how my classes in R and Rstudio have helped me create 
 <!--more-->
 ![](/images/USdefaults.jpeg)
 
-Through the STAT 385 and STAT 448 Courses at UIUC, I am now able to create complex visual to represent data in a way that coneys a message to all audiences even if they do not have a strong understanding of the underlying statistics. The visual shown above conveys how the loan default rates in the United States vary from state to state, to add to this, this visual was not particularly difficult to make! I simply made use of the `tidyverse` and `usmap` packages. You can find the full `.R` script used to make the visualization above [here](/RScripts/data-challenge-1.R)  
+Through the STAT 385 and STAT 448 Courses at UIUC, I am now able to create complex visual to represent data in a way that coneys a message to all audiences even if they do not have a strong understanding of the underlying statistics at work. The visual shown above conveys how the loan default rates in the United States vary from state to state, to add to this, this visual was not particularly difficutl to make! I simply made use of the `tidyverse` and `usmap` packages. You can find the full `.R` script used to make the visualization above [here](/RScripts/data-challenge-1.R)  
 
 \  
  

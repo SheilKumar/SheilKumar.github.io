@@ -1,4 +1,4 @@
-baseURL = "/ "
+baseURL = "/"
 # website language
 languageCode = "en"
 # [en, zh, ...] determines which i18n file to use
@@ -263,19 +263,19 @@ dateFormatToUse = "2006-01-02"
   [params.publisher]
     name = "xxxx"
     [params.publisher.logo]
-      url = "/images/MainPhoto.jpg"
+      url = "logo.png"
       width = 127
       height = 40
 
   # Website Log Info just for SEO
   [params.logo]
-    url = "/images/MainPhoto.jpg"
+    url = "logo.png"
     width = 300 
     height = 50
 
   # Website Image Info just for SEO
   [params.image]
-    url = "/images/MainPhoto.jpg"
+    url = "cover.png"
     width = 800
     height = 600
 
