@@ -5,15 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "0",
+    "hash" : "1268778710",
     "id" : "93FB6FA",
-    "lastKnownWriteTime" : 1583619090,
-    "last_content_update" : 1583619090774,
+    "lastKnownWriteTime" : 1583630534,
+    "last_content_update" : 1583630534243,
     "path" : "~/Documents/Spring 2020/STAT 385/Midterm Project 1/Actual Website/config.toml",
     "project_path" : "config.toml",
     "properties" : {
-        "cursorPosition" : "300,9",
-        "scrollLine" : "288"
+        "cursorPosition" : "0,12",
+        "scrollLine" : "0"
     },
     "relative_order" : 1,
     "source_on_save" : false,
