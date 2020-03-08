@@ -1,0 +1,1 @@
+"0","lines(density(faithful$eruptions,na.rm=TRUE),col=""red"",lwd=2)"

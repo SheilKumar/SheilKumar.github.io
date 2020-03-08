@@ -1,0 +1,8 @@
+"0","hist(x=faithful$eruptions, main =""Histogram of Old Faithful Geyser Eruption Time"","
+"0","     xlab = ""Eruption Time (mins)"","
+"0","     xlim = c(1,6.2),"
+"0","     ylim = c(0,0.82),"
+"0","     breaks = 15,"
+"0","     border = ""dodgerblue"","
+"0","     col = ""navyblue"","
+"0","     probability = TRUE)"

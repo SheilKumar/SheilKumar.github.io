@@ -1,0 +1,5 @@
+"0","par(mfrow=c(1,2))"
+"0","hist(faithful$waiting, main=""Histogram of Waiting Time"","
+"0","     xlab = ""Waiting Time (mins)"","
+"0","     col = ""navyblue"","
+"0","     border = ""white"", probability = T)"
