@@ -5,15 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "0",
+    "hash" : "1388335742",
     "id" : "D3738548",
-    "lastKnownWriteTime" : 1583618602,
-    "last_content_update" : 1583630183694,
+    "lastKnownWriteTime" : 1583630860,
+    "last_content_update" : 1583631022051,
     "path" : "~/Documents/Spring 2020/STAT 385/Midterm Project 1/Actual Website/content/posts/2020-03-07-r-r-studio-and-data-visualization.Rmd",
     "project_path" : "content/posts/2020-03-07-r-r-studio-and-data-visualization.Rmd",
     "properties" : {
-        "cursorPosition" : "22,7",
-        "scrollLine" : "0"
+        "cursorPosition" : "46,5",
+        "scrollLine" : "8"
     },
     "relative_order" : 2,
     "source_on_save" : false,

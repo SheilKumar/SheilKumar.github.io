@@ -17,7 +17,7 @@
      probability = TRUE)
 lines(density(faithful$eruptions,na.rm=TRUE),col=&quot;red&quot;,lwd=2)
 box()</code></pre>
-<p><img src="/  posts/2020-03-07-r-r-studio-and-data-visualization_files/figure-html/unnamed-chunk-1-1.png" width="672" /></p>
+<p><img src="/ posts/2020-03-07-r-r-studio-and-data-visualization_files/figure-html/unnamed-chunk-1-1.png" width="672" /></p>
 <pre class="r"><code>par(mfrow=c(1,2))
 hist(faithful$waiting, main=&quot;Histogram of Waiting Time&quot;,
      xlab = &quot;Waiting Time (mins)&quot;,
@@ -30,5 +30,5 @@ plot(x = faithful$waiting,y = faithful$eruptions,
      xlab = &quot;Waiting Time (mins)&quot;,
      pch=19, col=&quot;navyblue&quot;)
 box()</code></pre>
-<p><img src="/  posts/2020-03-07-r-r-studio-and-data-visualization_files/figure-html/unnamed-chunk-2-1.png" width="672" /></p>
+<p><img src="/ posts/2020-03-07-r-r-studio-and-data-visualization_files/figure-html/unnamed-chunk-2-1.png" width="672" /></p>
 
