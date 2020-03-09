@@ -107,7 +107,7 @@ dateFormatToUse = "2006-01-02"
 
   # Home Page Info
   ## [post, other] home mode
-  home_mode= "post"
+  home_mode= "other"
   ## special amount of posts in each home post page
   ## URL of avatar shown in home page
   avatar = "images/MainPhoto.jpg"
